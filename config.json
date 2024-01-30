@@ -1,0 +1,11 @@
+{
+
+  "token": " Hier kommt der Bot Token Hin https://discord.com/developers/applications ",
+
+  "teamid": " Hier kommt die ID Der Rolle hin die Gepingt werden soll ",
+
+  "msg": "<@${newState.member.id}> ist dem Sprachkanal beigetreten! ${role.toString()}",
+
+  "VC_channels": [" ID DAS VOICE CHANNELS "]
+
+}
